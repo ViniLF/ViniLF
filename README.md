@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @ViniLF
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on
-- 📫If you want to help or be helped, my discord is Vinisso#2462
