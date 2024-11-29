@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinícius Lucas Faria, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na UniFatecie e sou apaixonado por tecnologia, focando principalmente no desenvolvimento FullStack. Adoro aprender e compartilhar meus conhecimentos, seja por meio dos meus projetos no GitHub "[ViniLF](https://github.com/ViniLF)" ou nas minhas experiências práticas no [CodePen](https://codepen.io/vinihlucas90). Estou sempre em busca de novos desafios e aprimoramento contínuo.
+Me chamo Vinícius Lucas Faria, tenho 20 anos e sou natural do Paraná. Atualmente, estou em meu 3° semestre de Engenharia de Software na UniFatecie e sou apaixonado por tecnologia, focando principalmente no desenvolvimento FullStack. Adoro aprender e compartilhar meus conhecimentos, seja por meio dos meus projetos no GitHub "[ViniLF](https://github.com/ViniLF)" ou nas minhas experiências práticas no [CodePen](https://codepen.io/vinihlucas90). Estou sempre em busca de novos desafios e aprimoramento contínuo.
 
 <p align="left">
     <a href="https://github.com/ViniLF">
